@@ -49,6 +49,7 @@ plt.show()
 ```
 ## Output
 ![MATHS PROGRAM 9](https://github.com/user-attachments/assets/b263fd79-5baa-4b42-9b43-2d2acab93d6f)
+![MATHS PROGRAM 10](https://github.com/user-attachments/assets/1573f403-e391-4f8d-b09a-7ad0c5e37a7a)
 
 
 ## Result
